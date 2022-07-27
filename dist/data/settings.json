@@ -1,0 +1,5 @@
+{
+  "getRates": ["USD", "JPY"],
+  "showRates": ["USD", "JPY"],
+  "updateTime": 1000
+}

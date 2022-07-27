@@ -1,0 +1,22 @@
+[
+  {
+    "route": "/rate/list",
+    "class": "rate",
+    "action": "get"
+  },
+  {
+    "route": "/rate/current",
+    "class": "rate",
+    "action": "get_current"
+  },
+  {
+    "route": "/rate/save_cb",
+    "class": "rate",
+    "action": "save_cb"
+  },
+  {
+    "route": "/",
+    "class": "rate",
+    "action": "get_current"
+  }
+]
